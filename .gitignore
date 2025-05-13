@@ -106,3 +106,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Venv
+venv3/
+env3/
